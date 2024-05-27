@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/L05_firstJavaProgram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L06_ConditionalLoops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/L07_Switch" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
