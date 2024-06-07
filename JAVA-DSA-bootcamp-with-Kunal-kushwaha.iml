@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/L06_ConditionalLoops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L07_Switch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L08_Functions_Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/L09_Arrays_Arraylist" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
