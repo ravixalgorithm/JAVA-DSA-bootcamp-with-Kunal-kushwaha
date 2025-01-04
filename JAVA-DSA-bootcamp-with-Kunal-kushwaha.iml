@@ -9,10 +9,10 @@
       <sourceFolder url="file://$MODULE_DIR$/L11_Functions_Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L12_Arrays_Arraylist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L13_LinearSearch" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Practice" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Practice/L05_Practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L14_BinarySearch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/L15_BinarySearchIn2DArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practice/L05_Practice" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
