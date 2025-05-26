@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/L15_BinarySearchIn2DArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practice/L05_Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/L16_BubbleSort" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
