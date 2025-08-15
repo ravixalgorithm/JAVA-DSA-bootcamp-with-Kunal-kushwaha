@@ -21,5 +21,6 @@ public class Prime {
         if(c*c>n){
             System.out.println("Prime");
         }
+        sc.close();
     }
 }

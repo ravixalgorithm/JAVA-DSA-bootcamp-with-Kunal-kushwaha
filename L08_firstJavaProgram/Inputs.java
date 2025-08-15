@@ -12,5 +12,7 @@ public class Inputs {
 
         float marks = sc.nextFloat();
         System.out.println(marks);
+
+        sc.close();
     }
 }
